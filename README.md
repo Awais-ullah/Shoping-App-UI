@@ -76,10 +76,10 @@ flutter run
 Add screenshots of your app here:
 
 ```markdown
-![Home Screen](screenshots/home.png)
-![Profile Screen](screenshots/profile.png)
-![Friends Screen](screenshots/friends.png)
-![Notifications Screen](screenshots/notifications.png)
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/df1f0a91-21e3-42eb-b766-518b42494a2d" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/361c7246-844f-4636-ab36-a19aa22661a1" />
+
+
 ```
 
 ## 🎯 Purpose
